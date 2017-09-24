@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5,h6{text-transform: uppercase}
 /*latest blog*/
 .latest-blog{position:relative;overflow: hidden;border-bottom: 1px solid #ddd;}
 .fa{color:#95e1d3;}
-.open-map{margin-top:50px;background-image: url(img/new/open-map/map.png);width:100%;padding:30px;}
+.open-map{margin-top:50px;background-image: url(../img/new/open-map/map.png);width:100%;padding:30px;}
 .tz-gallery img{margin:3px;border:1px solid #ddd;border-radius:7px}
 /*footer*/
 .footer-bg{background:#F8F8F8;}
@@ -68,5 +68,3 @@ h1,h2,h3,h4,h5,h6{text-transform: uppercase}
 
 /*bottom footer*/
 .footer{border-top:1px solid #E5E5E5;margin:20px;padding:20px;}
-
-
